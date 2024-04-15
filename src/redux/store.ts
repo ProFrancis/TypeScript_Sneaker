@@ -6,7 +6,7 @@ import { configureStore } from "@reduxjs/toolkit";
 import Sneakers from "./reducers/sneakers";
 
 /* 
-cONFIGUREsTORE PERMET DE CRÉER LE STORE plus simplement contrairement aux version précédentes de redux.
+CONFIGUREsTORE PERMET DE CRÉER LE STORE plus simplement contrairement aux version précédentes de redux.
 
 cette methode reçoit un objet en paramètre avec une propriété reducer qui utilise automatiquement combinerReducer.
 
